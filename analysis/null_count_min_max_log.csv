@@ -1,0 +1,30 @@
+Field Name,Number of Nulls,Min,Max
+accountNumber,0,N/A,N/A
+customerId,0,N/A,N/A
+creditLimit,0,250.0,50000.0
+availableMoney,0,-1005.63,50000.0
+transactionDateTime,0,2016-01-01 00:01:02,2016-12-30 23:59:45
+transactionAmount,0,0.0,2011.54
+merchantName,0,N/A,N/A
+acqCountry,4562,N/A,N/A
+merchantCountryCode,724,N/A,N/A
+posEntryMode,4054,N/A,N/A
+posConditionCode,409,N/A,N/A
+merchantCategoryCode,0,N/A,N/A
+currentExpDate,0,2019-12-01 00:00:00,2033-08-01 00:00:00
+accountOpenDate,0,1989-08-22 00:00:00,2015-12-31 00:00:00
+dateOfLastAddressChange,0,1989-08-22 00:00:00,2016-12-30 00:00:00
+cardCVV,0,N/A,N/A
+enteredCVV,0,N/A,N/A
+cardLast4Digits,0,N/A,N/A
+transactionType,698,N/A,N/A
+echoBuffer,786363,N/A,N/A
+currentBalance,0,0.0,47498.81
+merchantCity,786363,N/A,N/A
+merchantState,786363,N/A,N/A
+merchantZip,786363,N/A,N/A
+cardPresent,0,N/A,N/A
+posOnPremises,786363,N/A,N/A
+recurringAuthInd,786363,N/A,N/A
+expirationDateKeyInMatch,0,N/A,N/A
+isFraud,0,N/A,N/A
